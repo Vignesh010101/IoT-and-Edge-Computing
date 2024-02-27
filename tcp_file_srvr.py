@@ -2,7 +2,7 @@
 
 import socket
 
-srvr_host = '10.114.4.51'
+srvr_host = 'server ip'
 srvr_port = 35791
 
 srvr_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
