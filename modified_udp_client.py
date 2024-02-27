@@ -4,7 +4,7 @@ import socket
 
 #Define the Server Host (ip address) and Server Port Number(greater than 1024) of your Choice
 
-srvr_host='10.114.27.246'
+srvr_host='client ip'
 srvr_port=53135
 
 #Create a Server Socket using socket() method and pass the IP Socket and the UDP socket inside the method as arguments
